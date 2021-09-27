@@ -1,7 +1,7 @@
 # Cris Perez - Writing Samples
 This site features some of my most recent technical writing samples that are not proprietary. 
 
-If you'd like to connect with me, please visit my Linkedin profile at: https://www.linkedin.com/in/cristianjperez/.
+If you'd like to connect with me, please visit my Linkedin profile at: [https://www.linkedin.com/in/cristianjperez](https://www.linkedin.com/in/cristianjperez).
 
 ## Welcome!
 This page is currently under construction. Please check back periodically for the latest updates.
