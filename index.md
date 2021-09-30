@@ -11,7 +11,7 @@ In the following samples, the *Before* links go to a snapshot of the page locate
 #### Help Center rebranding (Cloudflare Help Center)
 More than a writing sample, this entry showcases a site updgrade with a tighter design alignment with the Cloudflare Dashboard. It also shows a marked improvement on information architecture and user experience. 
 
-In the "after" version, the information above the fold was selected based on support ticket volume, frequent customer searches, and insights gained from site analytics. In contrast, the information below the fold aimst to integrate (for the first time) support content with developer portal content.
+In the *After* version, the information above the fold was selected based on support ticket volume, frequent customer searches, and insights gained from site analytics. In contrast, the information below the fold aims to integrate (for the first time) support content with developer portal content.
 
 * [Before](https://web.archive.org/web/20170814225943/https://support.cloudflare.com/hc/en-us)
 * [After](https://support.cloudflare.com/hc/en-us)
